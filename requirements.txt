@@ -1,0 +1,7 @@
+tensorflow
+Pillow
+pandas
+lxml
+tensorflow-object-detection-api
+argparse
+object_detection
